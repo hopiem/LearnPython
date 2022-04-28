@@ -14,9 +14,3 @@ while n < 100 and dobás != 6:
 
 
 print("Vége")
-
-
-
-      
-
-
